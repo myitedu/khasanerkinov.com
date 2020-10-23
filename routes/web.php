@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/{theme?}','PublicController@index');
-Route::post('/{theme?}','PublicController@contactUs');
-
+Route::get('/{theme?}', 'PublicController@index');
+Route::post('/{theme?}', 'PublicController@contactUs');

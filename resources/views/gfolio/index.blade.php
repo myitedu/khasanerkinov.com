@@ -46,10 +46,10 @@
     <div class="side-menu">
         <div class="heading-area">
             <a href="index.html" class="profile-photo"  >
-                <img src=0.jpg>
+                <img src="/gfolio/{{$theme}}/assets/images/about3.jpg" alt="" class="wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
             </a>
             <div class="name wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
-                Khasan Erkinov
+                Kristen Stewart
             </div>
         </div>
         <ul id="mainmenu-area">
@@ -74,7 +74,9 @@
             <li>
                 <a href="#contact" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fab fa-whatsapp"></i>Contact</a>
             </li>
-
+            <li>
+                <a href="#mycar" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fab fa-car"></i>My Car</a>
+            </li>
         </ul>
     </div>
 </div>
@@ -92,39 +94,43 @@
                     <div class="col-lg-6">
                         <div class="home-content">
                             <div class="home-image">
-                                <img src=0.jpg>
+                                <img src="/gfolio/{{$theme}}/assets/images/about.jpg" alt="" class="wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
                             </div>
                             <h4 class="heading wow fadeInUp"  data-wow-duration="0.8s" data-wow-delay="0.3s">
-                                Khasan Erkinov
+                                Kristen Stewart
                             </h4>
                             <div class="designation wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.4s">
 										<span>
-											I'm a Software Engineer
+											I'm a <span class="typed"></span>
 										</span>
                             </div>
                             <div class="social-info wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
                                 <ul>
                                     <li>
-                                        <a href="https://www.facebook.com/Khasan.7595">
+                                        <a href="#">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com">
+                                        <a href="#">
                                             <i class="fab fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com">
+                                        <a href="#">
                                             <i class="fab fa-linkedin-in"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/khasan.ny/">
+                                        <a href="#">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
-
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="about-links wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
@@ -156,7 +162,7 @@
                             <div class="row">
                                 <div class="col-lg-4">
                                     <div class="about-image wow fadeInUp"  data-wow-delay="0.3s">
-                                        <img src="0.jpg" alt="Khasan Erkinov">
+                                        <img src="/img/jontoshmatov.jpg" alt="Jon Toshmatov">
                                     </div>
 
                                 </div>
@@ -184,7 +190,7 @@
                                             Specialties: PHP 5x/7x, JQuery, JavaScript, HTML, SQL, XML, Actionscripts, GitHub, SSH
                                         </p>
                                         <div class="about-links">
-                                            <a href="" class="base-btn1">Download CV</a>
+                                            <a href="/pdf/jontoshmatov_resume.pdf" class="base-btn1">Download CV</a>
                                         </div>
                                     </div>
                                 </div>
@@ -195,10 +201,10 @@
                                         <div class="personal-info">
                                             <ul>
                                                 <li>
-                                                    <span><label>Goal:</label></span>
+                                                    <span><label>Goal:</label>Bring innovation to my development team.</span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Age:</label> 25</span>
+                                                    <span><label>Age:</label> 28</span>
                                                 </li>
                                                 <li>
                                                     <span><label>City:</label> New York, USA</span>
@@ -207,19 +213,19 @@
                                                     <span><label>Interests:</label> Soccer, UFC</span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Study:</label></span>
+                                                    <span><label>Study:</label> Chicago University</span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Degree:</label></span>
+                                                    <span><label>Degree:</label> Master</span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Website:</label> <a href="#">www.khasanerkinov.com</a></span>
+                                                    <span><label>Website:</label> <a href="#">www.mywebsite.com</a></span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Mail:</label> <a href="mailto:example@gmail.com">Khasan.7595@gmail.com</a></span>
+                                                    <span><label>Mail:</label> <a href="mailto:example@gmail.com">mymail@gmail.com</a></span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Phone:</label> <a href="#">+1347355xxxx</a></span>
+                                                    <span><label>Phone:</label> <a href="#">+77 022 177 05 05</a></span>
                                                 </li>
                                                 <li>
                                                     <span><label>Twitter:</label> <a href="#">@myusername</a></span>
@@ -568,7 +574,7 @@
                                 <div class="single-skill wow fadeInUp">
                                     <div class="heading">
                                         <h4 class="name">
-                                        Russian
+                                            Hindi
                                         </h4>
                                         <h5 class="value">
                                             75%
@@ -581,21 +587,28 @@
                                 <div class="single-skill wow fadeInUp">
                                     <div class="heading">
                                         <h4 class="name">
-                                          Uzbek
+                                            Spanis
                                         </h4>
                                         <h5 class="value">
-                                            100%
+                                            75%
                                         </h5>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
                                     </div>
                                 </div>
                                 <div class="single-skill wow fadeInUp">
                                     <div class="heading">
-
+                                        <h4 class="name">
+                                            Arabic
+                                        </h4>
+                                        <h5 class="value">
+                                            75%
+                                        </h5>
                                     </div>
-
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%"></div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1411,7 +1424,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>My Location:</h5>
-                                <p> West 8th St, Brooklyn, NY 11224</p>
+                                <p>700 Oak Street, Brockton MA 2301</p>
                             </div>
 
                         </div>
@@ -1424,7 +1437,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>Phone Number:</h5>
-                                <p>+13473557595</p>
+                                <p>+0123 123 856</p>
                             </div>
 
                         </div>
@@ -1438,12 +1451,7 @@
                             </div>
                             <div class="info-contentr">
                                 <h5>Email Address:</h5>
-                                <p><span class="myemail"></span></p>
-                                <style>
-                                    .myemail::after{
-                                        content: "khasan.7595@gmail.com";
-                                    }
-                                </style>
+                                <p>demomail@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -1496,19 +1504,18 @@
 
                     <div class="col-lg-6">
                         <div class="google_map_wrapper">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.418143593503!2d-73.97954678459921!3d40.57652477934685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24449f899408d%3A0xf3c5db02669ecc30!2s2958%20W%208th%20St%2C%20Brooklyn%2C%20NY%2011224!5e0!3m2!1sen!2sus!4v1603216688715!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.9955657537607!2d-73.9417760845982!3d40.607921479343354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2449efd447f43%3A0xd9165aef3346c7a5!2s1868%20Burnett%20St%2C%20Brooklyn%2C%20NY%2011229!5e0!3m2!1sen!2sus!4v1603034359524!5m2!1sen!2sus" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </div>
                     </div>
                 </div>
-                <div>
                 <!--/.row-->
             </div>
             <!--/.container-->
-     </div>
+        </div>
         <!-- Contact Area End -->
 
         <!-- Comments Area Start -->
-
+        <div class="mycar" id="mycar">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
@@ -1528,7 +1535,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>My Location:</h5>
-                                <p>West 8th St, Brooklyn, NY 11224</p>
+                                <p>700 Oak Street, Brockton MA 2301</p>
                             </div>
 
                         </div>
@@ -1541,7 +1548,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>Phone Number:</h5>
-                                <p>+1347355xxxx</p>
+                                <p>+0123 123 856</p>
                             </div>
 
                         </div>
@@ -1555,17 +1562,15 @@
                             </div>
                             <div class="info-contentr">
                                 <h5>Email Address:</h5>
-                                <p><span class="myemail"></span></p>
-                                <style>
-                                    .myemail::after{
-                                        content: "khasan.7595@gmail.com";
-                                    }
-                                </style>
+                                <p>demomail@gmail.com</p>
                             </div>
                         </div>
                     </div>
                 </div>
-
+                <div class="row cAndm">
+                    <h4>My Favorite Car</h4>
+                <img src="https://www.carscoops.com/wp-content/uploads/2019/04/f0a676c9-2002-mercedes-g-class-kahn-tuning-0-1024x555.jpg">
+                </div>
                 <!--/.row-->
             </div>
             <!--/.container-->

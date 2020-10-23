@@ -13,21 +13,19 @@ class PublicController extends Controller
     use MasterTraits;
 
 
-    public function index(Request $request, $theme = 'dark')
-    {
-        $themes = ['dark', 'dark2', 'light', 'light2', 'v3-one', 'v3-two'];
-        if (!in_array($theme, $themes)) {
+    public function index(Request $request, $theme='dark'){
+        $themes = ['dark','dark2','light','light2','v3-one','v3-two'];
+        if (!in_array($theme, $themes)){
             $theme = 'dark';
         }
         return view("gfolio.index", compact('theme'));
     }
 
-    public function contactUs(Request $request)
-    {
+    public function contactUs(Request $request){
         $parms = $request->input();
         $user = new User();
         $user->name = 'Khasan Erkinov';
-        $user->email = 'khasan.game@gmail.com';
+        $user->email = 'khasan.7595@gmail.com';
 
         $data = [
             'user' => $user,
