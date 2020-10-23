@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/{theme?}','PublicController@index');
+Route::post('/{theme?}','PublicController@contactUs');
+
