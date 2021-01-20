@@ -162,28 +162,26 @@
                                 <div class="col-lg-8 align-self-center">
                                     <div class="short-description wow fadeInUp" data-wow-delay="0.4s">
                                         <p>
-                                            A Zend Certified Engineer and experienced software developer with 16 years of IT experiences in developing web applications using Laravel 5, Laravel, Zend Framework 2, PHP 5x, MySQL, JQuery, Javascript, CSS, Wordpress and Cakephp. Open for weekend remote projects.
+                                            A junior experienced PHP developer<br>
+                                            Developed web applications by using: HTML, CSS, Javascript, JQuery, Wordpress, PHP, MySQL, API, Linux, Laravel,<br>
 
+                                            Languages:
+                                            • Expert in : Laravel 5x, PHP 5x-7x, JQuery, Javascript, AngularJS, CSS, Shell Scripting, LAMP.<br>
 
-                                            Citizenship: USA.
+                                            Software
+                                            • Database: AWS RDS, MySQL, Microsoft SQL. Microsoft Access, IBM DB2, Oracle 11g,<br>
+                                            • Platforms: Linux, Red Hat, Z/OS 1.13, Microsoft Windows Server 2005-08,<br>
+                                            • Methodologies: Agile software development, Lean, SDLC testing and debugging<br>
+
+                                            Specialties: PHP 7x, JQuery, JavaScript, HTML, SQL, XML, GitHub, SSH<br>
 
 
                                         </p>
                                         <p>
-                                            Languages:
-                                            • Expert in : Laravel 5x, PHP 5x-7x, JQuery, Javascript, AngularJS, CSS, Shell Scripting, LAMP, CakePHP, Zend Framework 2x.
-                                            • Familiar with: C#, Microsoft Visual Basic, Java
-                                            Software
-                                            • Database: AWS RDS, MySQL, Microsoft SQL. Microsoft Access, IBM DB2, Oracle 11g,
-                                            • Platforms: Linux, Red Hat, Z/OS 1.13, Microsoft Windows Server 2005-08,
-                                            • Z/OS Skills: CICS, IMS, DB2, RACF, SNA, WebSphere MQ, REXX, CLIST, SMP/E, JCL, TSO/E, and ISPF
-                                            • Methodologies: Agile software development, Lean, IBM GDF, SDLC testing and debugging
-                                            • Building APIs with healthcare information providers (EHR, Allscripts, Greenway Health) that is integrated portfolio of healthcare information technology solutions for hospitals, physician practices, and extended care organizations
 
-                                            Specialties: PHP 5x/7x, JQuery, JavaScript, HTML, SQL, XML, Actionscripts, GitHub, SSH
                                         </p>
                                         <div class="about-links">
-                                            <a href="" class="base-btn1">Download CV</a>
+                                            <a href="/pdf/Khasan_resume2.docx" class="base-btn1">Download CV</a>
                                         </div>
                                     </div>
                                 </div>
@@ -194,7 +192,7 @@
                                         <div class="personal-info">
                                             <ul>
                                                 <li>
-                                                    <span><label>Goal:</label></span>
+                                                    <span><label>Goal:</label>something that's never been done before.</span>
                                                 </li>
                                                 <li>
                                                     <span><label>Age:</label> 25</span>
@@ -203,14 +201,10 @@
                                                     <span><label>City:</label> New York, USA</span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Interests:</label> Soccer, UFC</span>
+                                                    <span><label>Interests:</label> Soccer, Swimming</span>
                                                 </li>
-                                                <li>
-                                                    <span><label>Study:</label></span>
-                                                </li>
-                                                <li>
-                                                    <span><label>Degree:</label></span>
-                                                </li>
+
+
                                                 <li>
                                                     <span><label>Website:</label> <a href="#">www.khasanerkinov.com</a></span>
                                                 </li>
@@ -218,11 +212,9 @@
                                                     <span><label>Mail:</label> <a href="mailto:example@gmail.com">Khasan.7595@gmail.com</a></span>
                                                 </li>
                                                 <li>
-                                                    <span><label>Phone:</label> <a href="#">+1347355xxxx</a></span>
+                                                    <span><label>Phone:</label> <a href="#">+13473557595</a></span>
                                                 </li>
-                                                <li>
-                                                    <span><label>Twitter:</label> <a href="#">@myusername</a></span>
-                                                </li>
+
                                             </ul>
                                         </div>
                                     </div>
@@ -363,31 +355,15 @@
                             <div class="education-list">
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2006-2008</span>
+                                        <span>2020</span>
                                     </div>
                                     <h4 class="university-name">
-                                        Envato University
+                                        EMYITEDU,LLC
                                     </h4>
-                                    <p class="degree">MSC in Computer Engineer </p>
+                                    <p class="degree">Software Engineer</p>
                                 </div>
-                                <div class="single-education wow fadeInUp">
-                                    <div class="year">
-                                        <span>2003-205</span>
-                                    </div>
-                                    <h4 class="university-name">
-                                        Envato University
-                                    </h4>
-                                    <p class="degree">BSC in Computer Engineer </p>
-                                </div>
-                                <div class="single-education wow fadeInUp">
-                                    <div class="year">
-                                        <span>2000-2002</span>
-                                    </div>
-                                    <h4 class="university-name">
-                                        Envato University
-                                    </h4>
-                                    <p class="degree">HSC in Computer Engineer </p>
-                                </div>
+
+
                             </div>
                         </div>
                     </div>
@@ -401,31 +377,15 @@
                             <div class="education-list">
                                 <div class="single-education wow fadeInUp">
                                     <div class="year">
-                                        <span>2014-2018</span>
+                                        <span>2020</span>
                                     </div>
                                     <h4 class="university-name">
-                                        Envato Company
+                                        MYITEDU,LLC
                                     </h4>
-                                    <p class="degree">Full Stack Web Developer</p>
+                                    <p class="degree">PHP Developer</p>
                                 </div>
-                                <div class="single-education wow fadeInUp">
-                                    <div class="year">
-                                        <span>2011-2014</span>
-                                    </div>
-                                    <h4 class="university-name">
-                                        Envato Company
-                                    </h4>
-                                    <p class="degree">Web Developer</p>
-                                </div>
-                                <div class="single-education wow fadeInUp">
-                                    <div class="year">
-                                        <span>2009-2011</span>
-                                    </div>
-                                    <h4 class="university-name">
-                                        Envato Company
-                                    </h4>
-                                    <p class="degree"> Web Designer</p>
-                                </div>
+
+
                             </div>
                         </div>
                     </div>
@@ -453,7 +413,7 @@
                                 <div class="single-skill wow fadeInUp">
                                     <div class="heading">
                                         <h4 class="name">
-                                            JS
+                                            API
                                         </h4>
                                         <h5 class="value">
                                             75%
@@ -479,16 +439,63 @@
                                 <div class="single-skill wow fadeInUp">
                                     <div class="heading">
                                         <h4 class="name">
-                                            JAVA
+                                            JavaScript
                                         </h4>
                                         <h5 class="value">
                                             75%
                                         </h5>
                                     </div>
+
                                     <div class="progress">
                                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
                                     </div>
                                 </div>
+
+                                <div class="single-skill wow fadeInUp">
+                                    <div class="heading">
+                                        <h4 class="name">
+                                            BootStrap
+                                        </h4>
+                                        <h5 class="value">
+                                            75%
+                                        </h5>
+                                    </div>
+
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                    </div>
+                                </div>
+
+                                <div class="single-skill wow fadeInUp">
+                                    <div class="heading">
+                                        <h4 class="name">
+                                            Laravel
+                                        </h4>
+                                        <h5 class="value">
+                                            75%
+                                        </h5>
+                                    </div>
+
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                    </div>
+                                </div>
+
+                                <div class="single-skill wow fadeInUp">
+                                    <div class="heading">
+                                        <h4 class="name">
+                                            WordPress
+                                        </h4>
+                                        <h5 class="value">
+                                            75%
+                                        </h5>
+                                    </div>
+
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -598,7 +605,7 @@
                                 </div>
                                 <div class="single-knowledge">
                                     <p>
-                                        iOS and android apps
+
                                     </p>
                                 </div>
                                 <div class="single-knowledge">
@@ -649,13 +656,13 @@
                 <div class="row">
                     <div class="partners-slider wow fadeInUp" data-wow-delay="0.3s">
                         <div class="slider-item">
-                            <a href="#">
-                                <img src="/gfolio/{{$theme}}/assets/images/partner/1.png" alt="">
+                            <a href="https://gulchatay.com">
+                                <img src="https://gulchatay.com/wp-content/uploads/2020/06/logo.png" alt="">
                             </a>
                         </div>
                         <div class="slider-item">
-                            <a href="#">
-                                <img src="/gfolio/{{$theme}}/assets/images/partner/2.png" alt="">
+                            <a href="https://tashkentbarbershop.com">
+                                <img src="https://lh3.googleusercontent.com/9KgI5LqGx-cl7b0ThxaUE1N4KWwP9WD2CFdLe_tSY9CriyYwdfxaaL11TGKJLeCn_f_N6Ot8=w1080-h608-p-no-v0" alt="">
                             </a>
                         </div>
                         <div class="slider-item">
@@ -945,14 +952,14 @@
                                     </div>
                                     <div class="reviewr">
                                         <div class="img">
-                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/p1.png" alt="">
+                                            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEfn7lzGpJXjg/profile-displayphoto-shrink_100_100/0/1517026322686?e=1616630400&v=beta&t=2NsrDfqTNPizfdsJ6wOdB6mnqLdXz7hTDMeqSbDH4pE" alt="">
                                         </div>
                                         <div class="content">
                                             <h4 class="name">
-                                                Austin Bishop
+                                                Sardor Nazikulov
                                             </h4>
                                             <p>
-                                                CEO at ABC
+                                                Software Engineer at MYITEDU,LLC
                                             </p>
                                         </div>
                                     </div>
@@ -975,14 +982,14 @@
                                     </div>
                                     <div class="reviewr">
                                         <div class="img">
-                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/p2.png" alt="">
+                                            <img src="https://media-exp1.licdn.com/dms/image/C5603AQGV9gmRU5RwKQ/profile-displayphoto-shrink_100_100/0/1596498101461?e=1616630400&v=beta&t=lcIns-Xte3lWV0sjbIOjjEjcvwV4hTi7-MV1nihdvwI" alt="">
                                         </div>
                                         <div class="content">
                                             <h4 class="name">
-                                                Alexander
+                                               Jon Toshmatov
                                             </h4>
                                             <p>
-                                                CEO at DER
+                                                CEO at MYITEDU,LLC
                                             </p>
                                         </div>
                                     </div>
@@ -1005,14 +1012,14 @@
                                     </div>
                                     <div class="reviewr">
                                         <div class="img">
-                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/p3.png" alt="">
+                                            <img src="data:image/jpeg;base64,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" alt="">
                                         </div>
                                         <div class="content">
                                             <h4 class="name">
-                                                Sebastian
+                                                Jessica Smith
                                             </h4>
                                             <p>
-                                                CEO at ECS
+                                                Full Stack Engineer at MYITEDU,LLC
                                             </p>
                                         </div>
                                     </div>
@@ -1035,7 +1042,7 @@
                                     </div>
                                     <div class="reviewr">
                                         <div class="img">
-                                            <img src="/gfolio/{{$theme}}/assets/images/reviewr/p4.png" alt="">
+                                            <img src="https://media-exp1.licdn.com/dms/image/C4D03AQG6Uwq8Pbmmmw/profile-displayphoto-shrink_100_100/0/1602630087438?e=1616630400&v=beta&t=sNgNDMi-L7WJIeJ2RTE_YGcG7OU6csZBmhZu8-Az7Pk" alt="">
                                         </div>
                                         <div class="content">
                                             <h4 class="name">
@@ -1340,7 +1347,7 @@
                             </div>
                             <div class="info-content">
                                 <h5>Phone Number:</h5>
-                                <p>+1347355xxxx</p>
+                                <p>+13473557595</p>
                             </div>
 
                         </div>
